@@ -10,7 +10,7 @@ ExportedFiles.xml
 # Ignore deployment files
 [Mm]odel/[Dd]eployment
 
-# Ignore files build by Visual Studio
+# Ignore Visual Studio user/cache/build files
 *.user
 *.aps
 *.pch
