@@ -10,7 +10,7 @@ ExportedFiles.xml
 # Ignore deployment files
 [Mm]odel/[Dd]eployment
 
-# Ignore Visual Studio user/cache/build files
+# Ignore Visual Studio/IDE user/cache/build files
 *.user
 *.aps
 *.pch
@@ -27,9 +27,11 @@ ExportedFiles.xml
 [Dd]ebug*/
 *.sbr
 .vs/
+.vscode/
 obj/
 [Rr]elease*/
 _ReSharper*/
+.atom/
 
 # Ignore files created from merge tools
 *.BACKUP.*.xml
